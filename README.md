@@ -8,3 +8,9 @@ clone it, go to project directory and
 ```sh
 npm i
 ```
+
+## Run
+
+```sh
+npm run dev
+```
