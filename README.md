@@ -1,5 +1,12 @@
 # nextjs-dashboard-tailwind-framermotion
-A NextJS Dashboard builded with tailwindcss and framermotion - Inspired by https://codepen.io/azrikahar/pen/abZzaga
+A NextJS Dashboard builded with tailwindcss and framermotion
+
+
+<p align="center">
+<img src="https://i.imgur.com/8oEqnhO.png" />
+</p>
+
+> Demo: https://nextjs-dashboard-tailwind-framermotion-jra4g2ouc.vercel.app/
 
 ## Install
 
@@ -14,3 +21,6 @@ npm i
 ```sh
 npm run dev
 ```
+
+## Credits
+Inspired by https://codepen.io/azrikahar/pen/abZzaga
